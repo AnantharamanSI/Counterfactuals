@@ -1,11 +1,11 @@
 # Constrained & Optimised Counterfactuals for interpretable ML and AI bias detection
 by Anantharaman S. Iyer  
 (Submitted to IRIS National Science Fair on 6th  November 2021)
-
+![counterfactual_8_iter](https://github.com/AnantharamanSI/Counterfactuals/assets/54242457/9c3b01a7-befd-4f4d-965b-592e40a57a57)
 Machine Learning models are usually black boxes for their users. The biases in their decision-making can be difficult to detect. I describe a constrained-optimization method for generating counterfactuals that can be used on a wide variety of datasets and ML models to make those models interpretable and uncover any biases lurking in them. I demonstrate the effectiveness of my method with several different ML models using MNIST image dataset as well as numerical and categorical datasets in the form of  Indian Liver dataset and German Credit dataset.
 
 This repository demonstrates my method on the MNIST image dataset.
-![counterfactual_8_iter](https://github.com/AnantharamanSI/Counterfactuals/assets/54242457/9c3b01a7-befd-4f4d-965b-592e40a57a57)
+
 ## How to download and run the code
 1. Simply download the code and copy it your desired folder path.
 
